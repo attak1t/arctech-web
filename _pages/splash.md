@@ -1,14 +1,15 @@
 ---
-title: "Hey!"
+title: "Splash"
 layout: splash
+permalink: /splash/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash/ice.jpg
   actions:
-    - label: "Press this button pls"
+    - label: "Download"
       url: "#test-link"
-excerpt: "Welcome to our website! It's still in development but you know, look around if you have to!"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
