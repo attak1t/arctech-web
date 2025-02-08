@@ -1,6 +1,6 @@
-# Minimal Mistakes remote theme starter
+# Arctech - Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This is the repository for the website arctech.cloud, using Jekyll with a modified version of the Minimal Mistakes theme.
 
 Contains basic configuration to get you a site with:
 
