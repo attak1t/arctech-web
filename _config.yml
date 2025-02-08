@@ -18,12 +18,12 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Arctech - A blog about technology, cloud, and software development.
 github_username: attak1t
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: attak1t/arctech-web-theme
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
