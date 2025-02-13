@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
+author_profile: false
 ---
 
 So you're looking to get in contact? Great!
