@@ -35,3 +35,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+<p style="text-align: center"><h1>test</h1><p>
